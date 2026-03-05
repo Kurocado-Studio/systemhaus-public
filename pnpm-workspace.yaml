@@ -1,0 +1,8 @@
+packages:
+  - 'apps/**'
+  - 'domains/**'
+  - 'docs/**'
+  - 'internal/**'
+  - 'packages/**'
+  - 'shared/**'
+  - 'themes/**'

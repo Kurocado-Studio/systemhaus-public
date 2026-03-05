@@ -1,0 +1,1 @@
+export { createReactConfig } from './main';

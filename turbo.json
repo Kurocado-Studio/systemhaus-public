@@ -1,0 +1,107 @@
+{
+  "$schema": "https://turbo.build/schema.json",
+  "tasks": {
+    "internal:build": {
+      "cache": false,
+      "outputs": ["dist/**"],
+      "dependsOn": ["^internal:build"]
+    },
+    "domain:build": {
+      "cache": false,
+      "outputs": ["dist/**"],
+      "dependsOn": ["internal:build", "^internal:build"]
+    },
+    "dependency:build": {
+      "cache": false,
+      "outputs": ["dist/**"],
+      "dependsOn": [
+        "internal:build",
+        "^internal:build",
+        "domain:build",
+        "^domain:build"
+      ]
+    },
+    "setup": {
+      "dependsOn": ["^internal:build", "^domain:build", "^build"],
+      "cache": false
+    },
+    "build": {
+      "cache": false,
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": ["dist/**", "storybook-static/**"],
+      "dependsOn": [
+        "internal:build",
+        "^internal:build",
+        "domain:build",
+        "^domain:build",
+        "dependency:build",
+        "^dependency:build",
+        "^build"
+      ]
+    },
+    "typecheck": {
+      "cache": false,
+      "dependsOn": []
+    },
+    "test": {
+      "cache": false,
+      "dependsOn": []
+    },
+    "lint": {
+      "cache": false,
+      "dependsOn": []
+    },
+    "lint:fix": {
+      "cache": false,
+      "dependsOn": []
+    },
+    "prettier:fix": {
+      "cache": false,
+      "dependsOn": []
+    },
+    "prettier:check": {
+      "cache": false,
+      "dependsOn": []
+    },
+    "domain:dev": {
+      "dependsOn": ["internal:build", "^internal:build"],
+      "persistent": true
+    },
+    "internal:dev": {
+      "dependsOn": [],
+      "persistent": true
+    },
+    "dev": {
+      "cache": false,
+      "dependsOn": [],
+      "persistent": true
+    },
+    "storybook:dev": {
+      "cache": false,
+      "dependsOn": [],
+      "persistent": true
+    },
+    "vite:watch": {
+      "dependsOn": [],
+      "persistent": true
+    },
+    "storybook": {
+      "dependsOn": []
+    },
+    "storybook:build": {
+      "dependsOn": ["^build"]
+    },
+    "preview-storybook": {
+      "dependsOn": ["^build"]
+    },
+    "internal:preflight": {
+      "dependsOn": ["^build"]
+    },
+    "internal:config": {
+      "dependsOn": ["^build"]
+    },
+    "clean": {
+      "cache": false
+    }
+  }
+}

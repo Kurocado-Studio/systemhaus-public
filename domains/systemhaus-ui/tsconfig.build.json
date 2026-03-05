@@ -1,0 +1,4 @@
+{
+  "extends": ["../../configs/tsconfig/tsconfig.domain-build.json"],
+  "include": ["src", "src/**/*.json"]
+}

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="4b8695d9">
+        <description>Created after removal of "Design System" from Platform</description>
+        <accepts>Design-System.html</accepts>
+    </rule>
+    <rule id="18c147ba">
+        <description>Created after removal of "Styleguide" from Platform</description>
+        <accepts>Styleguide.html</accepts>
+    </rule>
+    <rule id="68ca2857">
+        <description>Created after removal of "DevExp" from Platform</description>
+        <accepts>DevExp.html</accepts>
+    </rule>
+    <rule id="9978245">
+        <description>Created after removal of "DevOps" from Platform</description>
+        <accepts>DevOps.html</accepts>
+    </rule>
+    <rule id="5921e5cd">
+        <description>Created after removal of "IAM" from Platform</description>
+        <accepts>IAM.html</accepts>
+    </rule>
+    <rule id="50582db2">
+        <description>Created after removal of "QA" from Platform</description>
+        <accepts>QA.html</accepts>
+    </rule>
+    <rule id="79abfe0e">
+        <description>Created after removal of "Teams" from Platform</description>
+        <accepts>Teams.html</accepts>
+    </rule>
+    <rule id="7235fa0c">
+        <description>Created after removal of "Dependabot Templates" from Platform</description>
+        <accepts>Dependabot-Templates.html</accepts>
+    </rule>
+    <rule id="48398164">
+        <description>Created after removal of "Platform" from Platform</description>
+        <accepts>Platform.html</accepts>
+    </rule>
+    <rule id="43476290">
+        <description>Created after removal of "DevOps" from Platform</description>
+        <accepts>DevOps.html</accepts>
+    </rule>
+    <rule id="20572c3c">
+        <description>Created after removal of "Business Plan" from Platform</description>
+        <accepts>Business-Plan.html</accepts>
+    </rule>
+    <rule id="70035d08">
+        <description>Created after removal of "Typescript Platform" from Platform</description>
+        <accepts>starter-topic.html</accepts>
+    </rule>
+    <rule id="7df111d8">
+        <description>Created after removal of "Design System" from Platform</description>
+        <accepts>Design-System.html</accepts>
+    </rule>
+    <rule id="71bdebb4">
+        <description>Created after removal of "Guides" from Platform</description>
+        <accepts>Guides.html</accepts>
+    </rule>
+    <rule id="6678fe9c">
+        <description>Created after removal of "Commitlint" from Platform</description>
+        <accepts>How-To-Install-Commitlint.html</accepts>
+    </rule>
+    <rule id="38e1b622">
+        <description>Created after removal of "ESLint" from Platform</description>
+        <accepts>How-To-Install-ESLint.html</accepts>
+    </rule>
+    <rule id="6b97a651">
+        <description>Created after removal of "Prettier" from Platform</description>
+        <accepts>How-To-Install-Prettier.html</accepts>
+    </rule>
+    <rule id="3033a801">
+        <description>Created after removal of "Semantic Release" from Platform</description>
+        <accepts>How-To-Install-Semantic-Release.html</accepts>
+    </rule>
+    <rule id="2f9a9d92">
+        <description>Created after removal of "How To Install Vitest" from Platform</description>
+        <accepts>How-To-Install-Vitest.html</accepts>
+    </rule>
+    <rule id="3b8e05c3">
+        <description>Created after removal of "Engineering Styleguide" from Platform</description>
+        <accepts>Styleguide.html</accepts>
+    </rule>
+    <rule id="49636e08">
+        <description>Created after removal of "Templates" from Platform</description>
+        <accepts>Templates.html</accepts>
+    </rule>
+</rules>

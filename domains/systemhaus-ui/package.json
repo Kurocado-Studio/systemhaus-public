@@ -1,0 +1,65 @@
+{
+  "name": "@kurocado-studio/systemhaus-ui",
+  "version": "0.0.0-semantically-released",
+  "description": "",
+  "private": true,
+  "homepage": "https://github.com/kurocado-studio/platform",
+  "bugs": {
+    "url": "https://github.com/kurocado-studio/platform/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurocado-studio/systemhaus-monorepo.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./Mona-Sans.var.woff2": {
+      "import": "./dist/infrastructure/fonts/Mona-Sans.var.woff2",
+      "default": "./dist/infrastructure/fonts/Mona-Sans.var.woff2"
+    },
+    "./main.css": {
+      "import": "./dist/main.css",
+      "default": "./dist/main.css"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": [
+    "**/*.css",
+    "**/*.woff2"
+  ],
+  "scripts": {
+    "domain:build": "tsup --dts",
+    "clean": "rm -rf .turbo node_modules dist",
+    "dev": "tsup --watch --dts",
+    "lint": "eslint --max-warnings=0 . --no-warn-ignored",
+    "prettier:fix": "prettier --write . --ignore-path ../../.prettierignore",
+    "prettier:check": "prettier --check . --ignore-path ../../.prettierignore",
+    "lint:fix": "eslint --max-warnings=0 . --fix --no-warn-ignored",
+    "test": "vitest run --coverage",
+    "typecheck": "tsc --noEmit --pretty"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "lodash-es": "^4.17.21",
+    "shadcn": "^3.8.5",
+    "tailwind-variants": "^3.1.1"
+  },
+  "devDependencies": {
+    "@internal/config": "workspace:*",
+    "vite-tsconfig-paths": "^5.1.4"
+  },
+  "overrides": {
+    "conventional-changelog-conventionalcommits": ">= 8.0.0"
+  }
+}

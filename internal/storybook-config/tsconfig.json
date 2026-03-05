@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": ["../config/src/tsconfig.web.json"],
+  "compilerOptions": {
+    "types": ["@types/node"],
+    "skipLibCheck": true,
+    "allowJs": true,
+    "rootDir": ".",
+    "baseUrl": ".",
+    "jsx": "preserve"
+  },
+  "include": ["src", "tsup.config.ts"],
+  "exclude": ["dist", "build", "node_modules"]
+}

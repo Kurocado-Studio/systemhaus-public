@@ -1,0 +1,12 @@
+{
+  "extends": ["@internal/config/tsconfig.web"],
+  "compilerOptions": {
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true,
+    "emitDeclarationOnly": true,
+    "stripInternal": true,
+    "rootDir": "src",
+    "outDir": "dist"
+  }
+}

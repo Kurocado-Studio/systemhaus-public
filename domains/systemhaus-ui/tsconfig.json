@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": ["../../configs/tsconfig/tsconfig.domain-web.json"],
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "rootDir": "../..",
+    "types": ["vitest/globals", "node"]
+  },
+  "include": [
+    "src",
+    "src/**/*.json",
+    "setup.web.ts",
+    "tailwind.config.ts",
+    "test",
+    "tsup.config.ts",
+    "vitest.config.ts",
+    "src/globals.d.ts"
+  ],
+  "exclude": ["node_modules", "dist", "build"]
+}

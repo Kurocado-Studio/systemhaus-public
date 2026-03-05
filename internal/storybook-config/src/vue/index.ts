@@ -1,0 +1,1 @@
+export { createVueConfig } from './main';
