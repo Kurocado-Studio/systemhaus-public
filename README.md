@@ -1,54 +1,142 @@
-# Kurocado Studio SystemHaus
+# Kurocado Studio — SystemHaus
 
-SystemHaus is a pnpm + Turborepo monorepo for building product UI, motion, and service layers under
-a shared set of internal tooling and themes.
+SystemHaus is a multi-framework design system architecture built around a shared domain.
 
-## What is in this repo
+Instead of defining the design system inside a specific UI framework, SystemHaus models the design
+language as a domain that produces artifacts consumed by framework adapters such as React and Vue.
 
-This repository is organized into a few top-level groups. Each group has its own `package.json` and
-build/test configuration.
+This approach allows a single design system to power multiple frontend stacks while keeping tokens,
+themes, and component contracts centralized.
 
-- apps/ - runnable apps and Storybook hosts for React/Vue packages
-- packages/ - framework-specific UI and motion packages
-- domains/ - domain-focused libraries and API layers
-- shared/ - shared models and utilities used across domains and packages
-- themes/ - Tailwind themes and design tokens
-- internal/ - internal tooling/config packages used by the workspace
-- configs/ - central configs (ESLint, TS, release, etc.) shared across the monorepo
-- docs/ and Writerside/ - product and developer documentation
-- scripts/ - workspace scripts for automation and maintenance
+The repository is organized as a pnpm + Turborepo monorepo so applications, domain libraries, and
+framework adapters can evolve together while sharing tooling and infrastructure.
 
-## Package manager and tooling
+## System Architecture
 
-- pnpm workspaces are defined in `pnpm-workspace.yaml`
-- Turborepo pipelines are defined in `turbo.json`
-- Formatting and linting configs live in `prettier.config.mjs` and `configs/`
+SystemHaus separates the design system into two responsibilities.
 
-## Getting started
+The **domain layer** defines the design language.
+
+Framework **adapters render that domain** using framework-specific primitives.
+
+```mermaid
+flowchart TB
+
+subgraph Domain["SystemHaus Domain"]
+Tokens["Design Tokens"]
+Themes["Theme Model"]
+Contracts["Component Contracts"]
+Artifacts["Generated Artifacts"]
+end
+
+subgraph Adapters["Framework Adapters"]
+React["React Adapter"]
+Vue["Vue Adapter"]
+end
+
+subgraph Applications["Applications"]
+ReactApps["React Apps"]
+VueApps["Vue Apps"]
+end
+
+Tokens --> Artifacts
+Themes --> Artifacts
+Contracts --> Artifacts
+
+Artifacts --> React
+Artifacts --> Vue
+
+React --> ReactApps
+Vue --> VueApps
+```
+
+Applications consume framework adapters while the design language remains centralized in the domain.
+
+## Runtime Foundations
+
+SystemHaus is intentionally built on a small set of runtime constraints that simplify integration
+and ensure consistent behavior across frameworks.
+
+**Tailwind**
+
+Tailwind provides the primitive value inventory for spacing, typography, radii, and base color
+scales.
+
+**Framer Motion**
+
+All components are built on a polymorphic motion layer so animation and interaction patterns can be
+composed directly into the component API.
+
+**FormKit**
+
+Accessible form controls map to the FormKit runtime, allowing form behavior, validation, and
+accessibility rules to remain framework-agnostic.
+
+```mermaid
+flowchart TB
+
+Tailwind["Tailwind Primitives"]
+Motion["Framer Motion"]
+FormKit["FormKit Runtime"]
+
+Tokens["SystemHaus Tokens"]
+Components["SystemHaus Components"]
+Apps["Applications"]
+
+Tailwind --> Tokens
+Tokens --> Components
+
+Motion --> Components
+FormKit --> Components
+
+Components --> Apps
+```
+
+## Package Manager and Tooling
+
+The workspace uses pnpm and Turborepo to coordinate builds and development workflows.
+
+pnpm workspaces are defined in `pnpm-workspace.yaml`.
+
+Turborepo pipelines are defined in `turbo.json`.
+
+Shared linting, formatting, and TypeScript configuration lives inside the `configs/` directory.
+
+## Getting Started
+
+Install dependencies and build the workspace.
 
 ```sh
 pnpm install
 pnpm build
 ```
 
-## Common scripts
+Run Storybook hosts to explore components and adapters.
+
+```sh
+pnpm dev
+```
+
+Common development commands.
 
 ```sh
 pnpm lint
 pnpm test
-pnpm storybook
+pnpm build
 ```
 
 ## Environment
 
-This repo uses `.env` and `.env.*` files for local configuration. See each app or package for
-required variables.
+Each application or package documents its required variables locally.
 
-## Template notes
+## Template Usage
 
-Before using this repo as a template:
+This repository can be used as a starting point for new design system implementations.
 
-- Update the project name and description in `README.md` and the root `package.json`.
-- Remove or rename unused apps/packages.
-- Confirm the Storybook hosts match your target frameworks.
-- Review `configs/` to align lint, format, and release rules with your standards.
+Before using it as a template:
+
+Update the project name and description in `README.md` and the root `package.json`.
+
+Remove or rename unused apps or packages.
+
+Confirm Storybook hosts match the frameworks you want to support.
