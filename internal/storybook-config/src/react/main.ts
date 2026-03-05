@@ -16,8 +16,10 @@ export const createReactConfig = (
     reactDocgenTypescriptOptions: {
       shouldExtractLiteralValuesFromEnum: true,
       shouldRemoveUndefinedFromOptional: true,
-      propFilter: (property) =>
-        property.parent ? !/node_modules/.test(property.parent.fileName) : true,
+      propFilter: (property: { parent?: { fileName?: string } }) =>
+        property.parent?.fileName
+          ? !/node_modules/.test(property.parent.fileName)
+          : true,
     },
   },
   ...overrides,
