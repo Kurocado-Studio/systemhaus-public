@@ -2,11 +2,7 @@
 import { computed, onMounted, ref, useAttrs, watch } from 'vue';
 import type { CSSProperties, ImgHTMLAttributes } from 'vue';
 
-import {
-  Avatar as AvatarRoot,
-  AvatarFallback,
-  AvatarImage,
-} from '@/components/ui/avatar';
+import { AvatarFallback, AvatarImage, Avatar as AvatarRoot } from './ui/avatar';
 
 type MotionProperties = {
   opacity?: number;

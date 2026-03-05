@@ -46,13 +46,14 @@
     "prettier:fix": "prettier --write . --ignore-path ../../.prettierignore",
     "prettier:check": "prettier --check . --ignore-path ../../.prettierignore",
     "lint:fix": "eslint --max-warnings=0 . --fix --no-warn-ignored",
-    "test": "vitest run --coverage",
     "typecheck": "tsc --noEmit --pretty"
   },
   "dependencies": {
     "axios": "^1.12.2",
+    "clsx": "^2.1.1",
     "lodash-es": "^4.17.21",
     "shadcn": "^3.8.5",
+    "tailwind-merge": "^3.3.0",
     "tailwind-variants": "^3.1.1"
   },
   "devDependencies": {

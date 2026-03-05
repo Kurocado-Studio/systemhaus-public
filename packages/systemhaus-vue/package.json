@@ -1,11 +1,35 @@
 {
   "name": "@kurocado-studio/systemhaus-public-vue",
-  "private": true,
-  "version": "0.0.0",
+  "version": "0.0.0-semantically-released",
+  "private": false,
+  "publishConfig": {
+    "access": "restricted"
+  },
   "type": "module",
+  "main": "./dist/exports.js",
+  "module": "./dist/exports.js",
+  "types": "./dist/exports.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/exports.d.ts",
+      "import": "./dist/exports.js",
+      "default": "./dist/exports.js"
+    },
+    "./main.css": {
+      "import": "./dist/main.css",
+      "default": "./dist/main.css"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
   "scripts": {
     "vue:dev": "vite",
-    "build": "vue-tsc -p tsconfig.json --noEmit && vite build",
+    "build:vite": "vue-tsc -p tsconfig.json --noEmit && vite build",
+    "build": "tsup && vue-tsc -p tsconfig.json --declaration --emitDeclarationOnly --noEmit false --outDir dist",
     "preview": "vite preview",
     "dev": "storybook dev -p 8009 --no-open",
     "build-storybook": "storybook build"

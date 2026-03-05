@@ -6,8 +6,8 @@ import {
   AvatarFallback,
   AvatarImage,
   type AvatarImageProperties,
-  type AvatarRootProperties,
   AvatarRoot,
+  type AvatarRootProperties,
 } from './ui/avatar';
 
 export type AvatarProperties = Omit<AvatarRootProperties, 'children'> &
@@ -26,7 +26,7 @@ export function Avatar({
 }: AvatarProperties): React.ReactNode {
   return (
     <AvatarRoot size={size} {...rest}>
-      <AvatarImage size={size} src={src} alt={alt}  />
+      <AvatarImage size={size} src={src} alt={alt} />
       <AvatarFallback size={size}>{fallback}</AvatarFallback>
     </AvatarRoot>
   );

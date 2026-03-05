@@ -4,7 +4,7 @@ import type { AvatarImageProps } from 'reka-ui';
 import { AvatarImage } from 'reka-ui';
 import type { HTMLAttributes, ImgHTMLAttributes } from 'vue';
 
-import { cn } from '@/lib/utils';
+import { cn } from '../../../lib/utils';
 
 type AvatarImageComponentProps = AvatarImageProps &
   Omit<ImgHTMLAttributes, 'class'> & {

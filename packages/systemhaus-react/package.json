@@ -27,8 +27,7 @@
     "preview": "vite preview",
     "dev": "storybook dev -p 8008 --no-open",
     "build-storybook": "storybook build",
-    "build": "tsup && pnpm build:typings && rm -rf dist/exports.d.ts",
-    "build:typings": "api-extractor run --local"
+    "build": "tsup"
   },
   "dependencies": {
     "@fontsource-variable/geist": "^5.2.8",
