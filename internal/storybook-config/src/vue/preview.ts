@@ -1,6 +1,8 @@
-import type { Preview } from '@storybook/vue3-vite';
+import type { ProjectAnnotations, Renderer } from 'storybook/internal/types';
 
 import { basePreviewParameters } from '../previewBase';
+
+type Preview = ProjectAnnotations<Renderer>;
 
 export const createVuePreview = (
   overrides: Partial<Preview> = {},

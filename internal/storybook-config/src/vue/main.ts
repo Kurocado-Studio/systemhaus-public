@@ -1,9 +1,10 @@
 import type { StorybookConfig } from '@storybook/vue3-vite';
 import vueJsx from '@vitejs/plugin-vue-jsx';
+import type { UserConfig } from 'vite';
 
 import { baseAddons, baseStories } from '../base';
 
-const withVueJsx: StorybookConfig['viteFinal'] = async (config) => {
+const withVueJsx: StorybookConfig['viteFinal'] = async (config: UserConfig) => {
   config.plugins ||= [];
   config.plugins.push(vueJsx());
   return config;

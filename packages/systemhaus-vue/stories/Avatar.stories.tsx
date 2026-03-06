@@ -1,13 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/vue3-vite';
 import { expect, waitFor, within } from 'storybook/test';
 
-
-
 import Avatar from '@/components/Avatar.vue';
-
-
-
-
 
 const avatarArgTypes = {
   size: {
