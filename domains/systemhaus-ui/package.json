@@ -7,10 +7,6 @@
   "bugs": {
     "url": "https://github.com/kurocado-studio/platform/issues"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kurocado-studio/systemhaus-monorepo.git"
-  },
   "license": "MIT",
   "type": "module",
   "main": "dist/index.js",
