@@ -21,9 +21,6 @@ importers:
       '@flydotio/dockerfile':
         specifier: ^0.7.10
         version: 0.7.10(@types/node@24.11.0)
-      '@internal/config':
-        specifier: workspace:*
-        version: link:internal/config
       '@internal/storybook-config':
         specifier: workspace:0.0.0-semantically-released
         version: link:internal/storybook-config
@@ -267,8 +264,6 @@ importers:
       tailwind-variants:
         specifier: ^3.1.1
         version: 3.2.2(tailwind-merge@3.5.0)(tailwindcss@4.2.1)
-
-  internal/config: {}
 
   internal/storybook-config:
     devDependencies:

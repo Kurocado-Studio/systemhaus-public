@@ -1,5 +1,5 @@
 {
-  "extends": ["../../internal/config/src/tsconfig.web.json"],
+  "extends": ["./tsconfig.web-base.json"],
   "compilerOptions": {
     "composite": true,
     "declaration": true,

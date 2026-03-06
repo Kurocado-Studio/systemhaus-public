@@ -1,3 +1,3 @@
-import { defineBaseNodeEslintConfig } from '@internal/config';
+import { defineBaseNodeEslintConfig } from '@kurocado-studio/styleguide';
 
 export default defineBaseNodeEslintConfig(process.cwd());
