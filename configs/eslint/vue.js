@@ -1,4 +1,4 @@
-import { defineReactEslintConfig } from '@internal/config';
+import { defineReactEslintConfig } from '@kurocado-studio/styleguide';
 import tsParser from '@typescript-eslint/parser';
 import vuePlugin from 'eslint-plugin-vue';
 import vueParser from 'vue-eslint-parser';

@@ -1,4 +1,4 @@
-import { defineReactEslintConfig } from '@internal/config';
+import { defineReactEslintConfig } from '@kurocado-studio/styleguide';
 
 export const createReactEslintConfig = () => [
   ...defineReactEslintConfig(),
