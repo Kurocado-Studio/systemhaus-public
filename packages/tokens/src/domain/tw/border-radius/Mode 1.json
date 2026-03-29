@@ -1,0 +1,1197 @@
+{
+  "$extensions": {
+    "systemhaus.figma.path": "tw/border-radius/Mode 1"
+  },
+  "rounded-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-es-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-ee-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-ee-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-ee-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-ee-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-ee-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-ee-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-se-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-se-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-se-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-se-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-ss-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-ss-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-ss-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-ss-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-ss-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-ss-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-ss-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-1-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-1-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-1-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-1-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-b-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-1-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-b-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-tr-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-b-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-r-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-e-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-b-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-r-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-r-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-t-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-1-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-t-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-r-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-r-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-t-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-r-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-e-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-e-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-e-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-e-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-bl-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-ss-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-bl-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-1-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-b-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-bl-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-s-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-tr-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-br-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-bl-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-es-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-br-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-e-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-e-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-bl-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-r-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-bl-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-r-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-es-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-br-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-ee-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-bl-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-se-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-es-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-br-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-t-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-e-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-br-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-s-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-s-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-br-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-1-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-es-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-br-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-es-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-tr-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-se-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-tl-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-tr-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-b-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-t-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-bl-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-tr-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-s-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-tr-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-tl-full": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{9999}"
+  },
+  "rounded-1-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-br-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-se-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-t-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-ss-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-tr-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-t-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-b-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-tr-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-ee-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-se-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-1-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-s-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-tr-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-tr-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-es-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-br-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-tl-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-ee-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-tl-4xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{32}"
+  },
+  "rounded-br-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-r-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-tl-3xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{24}"
+  },
+  "rounded-r-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "rounded-tl-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-s-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-b-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-tl-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-s-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-t-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-s-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-bl-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-tl-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-se-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-b-xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{12}"
+  },
+  "rounded-t-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-es-lg": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{8}"
+  },
+  "rounded-tl-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-es-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-e-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-t-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-tl-sm": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{4}"
+  },
+  "rounded-se-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-es-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-ee-none": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0}"
+  },
+  "rounded-b-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-ss-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-e-2xl": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{16}"
+  },
+  "rounded-bl-md": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{6}"
+  },
+  "rounded-s-xs": {
+    "$extensions": {
+      "com.figma.scopes": ["CORNER_RADIUS"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  }
+}

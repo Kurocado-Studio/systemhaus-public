@@ -1,0 +1,3635 @@
+{
+  "$extensions": {
+    "systemhaus.figma.path": "rdx/colors/light mode"
+  },
+  "gray": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fcfcfc",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f9f9f9",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f0f0f0",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e8e8e8",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e0e0e0",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d9d9d9",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cecece",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#bbbbbb",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8d8d8d",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#838383",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#646464",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#202020",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "mauve": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdfcfd",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#faf9fb",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f2eff3",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eae7ec",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e3dfe6",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dbd8e0",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d0cdd7",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#bcbac7",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8e8c99",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#84828e",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#65636d",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#211f26",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "slate": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fcfcfd",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f9f9fb",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f0f0f3",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e8e8ec",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e0e1e6",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d9d9e0",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cdced6",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b9bbc6",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8b8d98",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#80838d",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#60646c",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1c2024",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "sage": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fbfdfc",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f7f9f8",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eeeeff",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e6e9e8",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dfe2e0",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d7dad9",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cbcfcd",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b8bcba",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#868e8b",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7c8481",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5f6563",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1a211e",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "olive": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fcfdfc",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f8faf8",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eff1ef",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e7e9e7",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dfe2df",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d7dad7",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cccfcc",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b9bcb8",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#898e87",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7f847d",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#60655f",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1d211c",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "sand": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdfdfc",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f9f9f8",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f1f0ef",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e9e8e6",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e2e1de",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dad9d6",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cfceca",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#bcbbb5",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8d8d86",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#82827c",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#63635e",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#21201c",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "tomato": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fffcfc",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fff8f7",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#feebe7",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffdcd3",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffcdc2",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdbdaf",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f5a898",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ec8e7b",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e54d2e",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dd4425",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d13415",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5c271f",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "red": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fffcfc",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fff7f7",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#feebec",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffdbdc",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffcdce",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdbdbe",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f4a9aa",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eb8e90",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e5484d",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dc3e42",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ce2c31",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#641723",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "ruby": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fffcfd",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fff7f8",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#feeaed",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffdce1",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffced6",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f8bfc8",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#efacb8",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e592a3",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e54666",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dc3b5d",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ca244d",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#64172b",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "crimson": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fffcfd",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fef7f9",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffe9f0",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fedce7",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#facedd",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f3bed1",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eaacc3",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e093b2",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e93d82",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#df3478",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cb1d63",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#621639",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "pink": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fffcfe",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fef7fb",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fee9f5",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fbdcef",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f6cee7",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#efbfdd",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e7acd0",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dd93c2",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d6409f",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cf3897",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c2298a",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#651249",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "plum": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fefcff",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdf7fd",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fbebfb",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f7def8",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f2d1f3",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e9c2ec",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#deade3",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cf91d8",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ab4aba",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#a144af",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#953ea3",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#53195d",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "purple": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fefcfe",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fbf7fe",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f7edfe",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f2e2fc",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ead5f9",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e0c4f4",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d1afec",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#be93e4",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8e4ec6",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8347b9",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8145b5",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#402060",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "violet": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdfcfe",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#faf8ff",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f4f0fe",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ebe4ff",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e1d9ff",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d4cafe",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c2b5f5",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#aa99ec",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6e56cf",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#654dc4",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6550b9",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2f265f",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "iris": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdfdff",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f8f8ff",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f0f1fe",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e6e7ff",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dadcff",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cbcdff",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b8baf8",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#9b9ef0",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5b5bd6",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5151cd",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5753c6",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#272962",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "indigo": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdfdfe",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f7f9ff",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#edf2fe",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e1e9ff",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d2deff",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c1d0ff",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#abbdf9",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8da4ef",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3e63dd",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3358d4",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3a5bc7",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1f2d5c",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "blue": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fbfdff",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f4faff",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e6f4fe",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d5efff",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c2e5ff",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#acd8fc",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8ec8f6",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5eb1ef",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0090ff",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0588f0",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0d74ce",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#113264",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "cyan": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fafdfe",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f2fafb",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#def7f9",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#caf1f6",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b5e9f0",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#9ddde7",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7dcedc",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3db9cf",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00a2c7",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0797b9",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#107d98",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0d3c48",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "teal": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fafefd",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f3fbf9",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e0f8f3",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ccf3ea",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b8eae0",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#a1ded2",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#83cdc1",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#53b9ab",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#12a594",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0d9b8a",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#008573",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0d3d38",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "jade": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fbfefd",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f4fbf7",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e6f7ed",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d6f1e3",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c3e9d7",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#acdec8",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8bceb6",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#56ba9f",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#29a383",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#26997b",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#208368",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1d3b31",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "green": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fbfefc",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f4fbf6",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e6f6eb",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d6f1df",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c4e8d1",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#adddc0",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8eceaa",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5bb98b",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#30a46c",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2b9a66",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#218358",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#193b2d",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "grass": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fbfefb",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f5fbf5",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e9f6e9",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#daf1db",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c9e8ca",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b2ddb5",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#94ce9a",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#65ba74",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#46a758",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3e9b4f",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2a7e3b",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#203c25",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "bronze": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdfcfc",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdf7f5",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f6edea",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#efe4df",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e7d9d3",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dfcdc5",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d3bcb3",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c2a499",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#a18072",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#957468",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7d5e54",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#43302b",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "gold": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdfdfc",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#faf9f2",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f2f0e7",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eae6db",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e1dccf",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d8d0bf",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cbc0aa",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b9a88d",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#978365",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8c7a5e",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#71624b",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3b352b",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "brown": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fefdfc",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fcf9f6",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f6eee7",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f0e4d9",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ebdaca",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e4cdb7",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dcbc9f",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cea37e",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ad7f58",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#a07553",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#815e46",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3e332e",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "orange": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fefcfb",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fff7ed",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffefd6",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffdfb5",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffd19a",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffc182",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f5ae73",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ec9455",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f76b15",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ef5f00",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cc4e00",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#582d1d",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "amber": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fefdfb",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fefbe9",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fff7c2",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffee9c",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fbe577",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f3d673",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e9c162",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e2a336",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffc53d",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffba18",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ab6400",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#4f3422",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "yellow": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdfdf9",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fefce9",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fffab8",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fff394",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffe770",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f3d768",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e4c767",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d5ae39",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffe629",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffdc00",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#9e6c00",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#473b1f",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "lime": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fcfdfa",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f8faf3",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eef6d6",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e2f0bd",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d3e7a6",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c2da91",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#abc978",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8db654",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#bdee63",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b0e64c",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5c7c2f",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#37401c",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "mint": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f9fefd",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f2fbf9",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ddf9f2",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c8f4e9",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b3ecde",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#9ce0d0",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7ecfbd",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#4cbba5",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#86ead4",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7de0cb",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#027864",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#16433c",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "sky": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f9feff",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f1fafd",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e1f6fd",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d1f0fa",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#bee7f5",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#a9daed",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8dcae3",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#60b3d7",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7ce2fe",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#74daf8",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00749e",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1d3e56",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "black": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0000000d",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0000001a",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00000026",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00000033",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0000004d",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00000066",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00000080",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00000099",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#000000b3",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#000000cc",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#000000e6",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#000000f2",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  },
+  "white": {
+    "1": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff0d",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff1a",
+      "$description": "Backgrounds                   Pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff26",
+      "$description": "Interactive components Pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff33",
+      "$description": "Interactive components Pairs with Steps 11, 12 labels"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff4d",
+      "$description": "Interactive components Pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff66",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff80",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff99",
+      "$description": "Borders and separators Pairs with steps 1–5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffffb3",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffffcc",
+      "$description": "Solid colors                             Pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffffe6",
+      "$description": "Accessible text                    Pairs with background colors"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.scopes": ["ALL_SCOPES"],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fffffff2",
+      "$description": "Accessible text                    Pairs with background colors"
+    }
+  }
+}
