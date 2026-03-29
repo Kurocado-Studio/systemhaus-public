@@ -1,0 +1,93 @@
+{
+  "$extensions": {
+    "systemhaus.figma.path": "tw/stroke-width/Mode 1"
+  },
+  "stroke-1": {
+    "$extensions": {
+      "com.figma.scopes": ["STROKE_FLOAT"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{1}"
+  },
+  "stroke-0,5": {
+    "$extensions": {
+      "com.figma.scopes": ["STROKE_FLOAT"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0,5}"
+  },
+  "stroke-0,75": {
+    "$extensions": {
+      "com.figma.scopes": ["STROKE_FLOAT"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{0,75}"
+  },
+  "stroke-1,5": {
+    "$extensions": {
+      "com.figma.scopes": ["STROKE_FLOAT"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{1,5}"
+  },
+  "stroke-1,25": {
+    "$extensions": {
+      "com.figma.scopes": ["STROKE_FLOAT"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{1,25}"
+  },
+  "stroke-1,75": {
+    "$extensions": {
+      "com.figma.scopes": ["STROKE_FLOAT"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{1,75}"
+  },
+  "stroke-2": {
+    "$extensions": {
+      "com.figma.scopes": ["STROKE_FLOAT"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2}"
+  },
+  "stroke-2,25": {
+    "$extensions": {
+      "com.figma.scopes": ["STROKE_FLOAT"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2,25}"
+  },
+  "stroke-2,5": {
+    "$extensions": {
+      "com.figma.scopes": ["STROKE_FLOAT"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2,5}"
+  },
+  "stroke-2,75": {
+    "$extensions": {
+      "com.figma.scopes": ["STROKE_FLOAT"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{2,75}"
+  },
+  "stroke-3": {
+    "$extensions": {
+      "com.figma.scopes": ["STROKE_FLOAT"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{3}"
+  }
+}
